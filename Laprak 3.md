@@ -131,7 +131,7 @@ int main() {
 }
 ```
 #### Output :
-
+https://github.com/Arsitatw/Praktikum-3/blob/master/Praktikum%203/Screenshot%202024-06-10%20085113.png
 #### Penjelasan : 
 Pada Array ips berisikan nilai IPS dari lima mahasiswa. Kemudian Fungsi selection Sort Desc untuk mengimplementasikan algoritma Selection Sort untuk mengurutkan array dari terbesar ke terkecil. pada int n di gunakan untuk menyimpan nilai array ke dalam n. Lalu untuk menemukan indeks elemen terbesar di subarray yang dimulai dari i pada maxIdx. Selanjutnya menukar elemen terbesar yang ditemukan dengan elemen di posisi i, setelah itu memanggil fungsi selectionSortDesc untuk mengurutkan daftar IPS. Program ini mengurutkan nilai IPS mahasiswa dari yang terbesar hingga terkecil menggunakan algoritma Selection Sort.
 
