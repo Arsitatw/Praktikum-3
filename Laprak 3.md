@@ -173,7 +173,7 @@ int main() {
 ```
 
 #### Output
-
+https://github.com/Arsitatw/Praktikum-3/blob/master/Praktikum%203/Screenshot%202024-06-10%20085222.png
 #### Penjelasan :
 Pertama melakukan inisialisasi daftar nama dengan menggunakan array untuk mrnyimpan nama warga Pak RT, selanjutnya pada fungsi bublesort digunakan untuk mengurutkan array string dalam urutan alfabet. Pada Loop dilakukan iterasi melalui setiap elemen array hingga elemen kedua terakhir. Flag ini digunakan untuk memeriksa apakah ada penukaran elemen dalam satu iterasi. Bandingkan elemen saat ini dengan elemen berikutnya dan tukar jika elemen saat ini lebih besar. Set swapped menjadi true jika terjadi penukaran. Jika tidak ada elemen yang ditukar, keluar dari loop karena array sudah terurut. Selanjutnya memanggil fungsi bubbleSort untuk mengurutkan daftar nama, lalu mencetak daftar nama yang telah diurutkan.
 
